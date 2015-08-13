@@ -7,5 +7,6 @@ public class Trangle implements Shape {
 		System.out.println("This is Trangle");
 		
 	}
+	// testing
 
 }
